@@ -8,6 +8,7 @@ Flask, requests
 
 # Main command :
 
-deta login
-deta deploy
+- deta login
+
+- deta deploy
 
