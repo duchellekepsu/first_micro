@@ -6,4 +6,8 @@ The purpose of this application is to learn how to build cookies and logs using 
 # Requirements to run the application
 Flask, requests
 
+# Main command :
+
+deta login
+deta deploy
 
